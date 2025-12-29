@@ -7,6 +7,6 @@ A fake GUI at the top of your screen for larping. It switches to a fake user id 
 
 ![Preview](https://github.com/blowdryers/Gorilla-Tag-PlayerIDs/blob/main/image.png?raw=true)
 
-You can download the file [here](https://cdn.discordapp.com/attachments/1455172222032281600/1455172222774677597/WyvernUnbanner.dll)
+You can download the file [here](https://github.com/blowdryers/Gorilla-Tag-PlayerIDs/blob/main/WyvernUnbanner.dll)
 
 Note: This does not unban you and this is purely a visual.
